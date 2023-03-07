@@ -1,0 +1,19 @@
+.oddnum {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#first {
+    color: blue;
+    font: 36px;
+}
+
+.oddnum.cooler {
+    font: 24px;
+}
+
+#second {
+    background-color: rgb(98, 182, 29);
+    font: 24px;
+    font-weight: bold;
+}
